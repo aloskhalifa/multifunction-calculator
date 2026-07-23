@@ -1,0 +1,16 @@
+C:\Users\alosk\documents\visual studio 2010\Projects\MULTIFUNCTION. WA\MULTIFUNCTION. WA\bin\Debug\MULTIFUNCTION. WA.exe
+C:\Users\alosk\documents\visual studio 2010\Projects\MULTIFUNCTION. WA\MULTIFUNCTION. WA\bin\Debug\MULTIFUNCTION. WA.pdb
+C:\Users\alosk\documents\visual studio 2010\Projects\MULTIFUNCTION. WA\MULTIFUNCTION. WA\bin\Debug\MULTIFUNCTION. WA.xml
+C:\Users\alosk\documents\visual studio 2010\Projects\MULTIFUNCTION. WA\MULTIFUNCTION. WA\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\alosk\documents\visual studio 2010\Projects\MULTIFUNCTION. WA\MULTIFUNCTION. WA\obj\x86\Debug\MULTIFUNCTION. WA.vbproj.GenerateResource.Cache
+C:\Users\alosk\documents\visual studio 2010\Projects\MULTIFUNCTION. WA\MULTIFUNCTION. WA\obj\x86\Debug\MULTIFUNCTION. WA.exe
+C:\Users\alosk\documents\visual studio 2010\Projects\MULTIFUNCTION. WA\MULTIFUNCTION. WA\obj\x86\Debug\MULTIFUNCTION. WA.xml
+C:\Users\alosk\documents\visual studio 2010\Projects\MULTIFUNCTION. WA\MULTIFUNCTION. WA\obj\x86\Debug\MULTIFUNCTION. WA.pdb
+C:\Users\alosk\documents\visual studio 2010\Projects\MULTIFUNCTION. WA\MULTIFUNCTION. WA\obj\x86\Debug\MULTIFUNCTION. WA.vbprojResolveAssemblyReference.cache
+C:\Users\alosk\documents\visual studio 2010\Projects\MULTIFUNCTION. WA\MULTIFUNCTION. WA\obj\x86\Debug\WindowsApplication1.scientificform.resources
+C:\Users\alosk\Documents\Visual Studio 2010\Projects\MULTIFUNCTION. WA\MULTIFUNCTION. WA\obj\x86\Debug\WindowsApplication1.Multifunction.resources
+C:\Users\alosk\Documents\Visual Studio 2010\Projects\MULTIFUNCTION. WA\MULTIFUNCTION. WA\obj\x86\Debug\WindowsApplication1.agecalculator.resources
+C:\Users\alosk\documents\visual studio 2010\Projects\MULTIFUNCTION. WA\MULTIFUNCTION. WA\obj\x86\Debug\WindowsApplication1.boyleslawform.resources
+C:\Users\alosk\documents\visual studio 2010\Projects\MULTIFUNCTION. WA\MULTIFUNCTION. WA\obj\x86\Debug\WindowsApplication1.loancaculatorform.resources
+C:\Users\alosk\Documents\Visual Studio 2010\Projects\MULTIFUNCTION. WA\MULTIFUNCTION. WA\obj\x86\Debug\WindowsApplication1.Unit_Converter.resources
+C:\Users\alosk\Documents\Visual Studio 2010\Projects\MULTIFUNCTION. WA\MULTIFUNCTION. WA\obj\x86\Debug\WindowsApplication1.gpacalculator.resources
